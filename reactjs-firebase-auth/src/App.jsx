@@ -7,7 +7,7 @@ import { Route, Routes } from 'react-router-dom'
 import Signin from './components/Signin'
 import Signup from './components/Signup'
 import Home from './components/Home'
-import Dashboard from './components/dashboard'
+import Dashboard from './components/Dashboard'
 import PrivateRoute from './components/PrivateRoute'
 
 function App(){
