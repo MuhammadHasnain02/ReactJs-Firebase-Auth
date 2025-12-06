@@ -5,7 +5,7 @@ function Home() {
     
     return (
         <div>
-            <h1 className="font-semibold">Home</h1>
+            <h1 className="font-semibold">Firbase-Auth</h1>
             <br />
             <button onClick={() => navigation('/signin')}>Login</button>
             <button onClick={() => navigation('/signup')}>Register</button>
